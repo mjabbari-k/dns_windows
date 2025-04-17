@@ -1,14 +1,14 @@
 # dns_windows
-Simple shell script to change DNS on windows and refresh network
+Simple shell script to change DNS on Windows and refresh the network — no background services required.
 
-1)Create shortcuts of both *.bat files
+Create shortcuts for both .bat files.
 
-2)Give administrator privilege for shortcuts
+Grant administrator privileges to the shortcuts.
 
-3)Place the anywhere you like and run
+Place them anywhere you like and run.
 
-4)Put in the number or character associated with the DNS or flushing the DNS and press enter
+Enter the number or character associated with the DNS or DNS flush option, then press Enter.
 
-5)Let the console close on its own
+Let the console close on its own.
 
-*) The DNS_remove.bat scripts are a quick way to remove and flush DNS and refresh network
+*) The DNS_remove.bat script is a quick way to remove DNS settings, flush the DNS cache, and refresh the network.
