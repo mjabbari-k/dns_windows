@@ -67,6 +67,9 @@ dns/              # Scripts for DNS switching
   DNS_remove.bat
   ```
 
+- **Running the Files by Clicking**:
+  You can also run these scripts simply by double-clicking them. Just ensure that you have granted the batch files admin permissions as described earlier for them to execute properly.
+
 ## How It Works
 
 1. **Set custom DNS**:  
