@@ -43,7 +43,7 @@ dns/              # Scripts for DNS switching
      ```
      C:/ProgramData/Microsoft/Windows/Start Menu/Programs/
      ```
-   - Paste the files or shortcuts into this folder.
+   - Paste the shortcuts into this folder.
    
    After this, you will be able to search for the scripts directly in the Windows Start Menu.
 
